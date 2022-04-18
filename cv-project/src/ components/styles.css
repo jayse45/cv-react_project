@@ -1,0 +1,14 @@
+.center-text{
+    text-align: center;
+}
+
+section{
+    margin: 2rem;
+}
+
+.beside{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
